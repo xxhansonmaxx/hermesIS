@@ -1,0 +1,22 @@
+---------------------------------
+Hermes Interplanetary Spacecraft
+---------------------------------
+A replica of the Hermes from "The Martian"
+
+CHANGELOG:
+
+0.3 Added MDV IVA
+
+0.2 Texture/Model Revamps, Added IRIS, Added Individual Ring Segments, Added IR parts, Added 3 new crew modules, Added Adapters, Crew Modules now hold crew, Removed old single Ring part, Mod now requires Infernal Robotics
+
+0.1 Initial Release
+
+Example Ship is Hermes.craft
+
+Created By:
+xxhansonnmaxx: Owner/Models/Textures
+OrbitalEscape: Co-Owner/Unity/Configs
+
+Follow the development every Sunday on Twitch!
+
+LICENSE: CC BY-NC 4.0
